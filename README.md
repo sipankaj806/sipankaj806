@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sipankaj806
-- 👀 I’m interested in Data Science based projects. 
+- 👀 I’m interested in Tech based projects. 
 - 🌱 I’m currently learning ML, Power BI and Python.
 - 📫 You can reach me on pankajkumarsingh806@gmail.com
 
